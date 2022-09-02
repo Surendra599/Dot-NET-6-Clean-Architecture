@@ -1,0 +1,10 @@
+
+POST https://localhost:7129/api/Authentication/Register 
+Content-Type: application/json
+
+{
+"firstname":"Surendra",
+"lastname":"Singh",
+"email": "SurendraSingh599@gmail.com",
+"Password":"ABC@12xyz"
+}
